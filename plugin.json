@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-customizer",
+  "version": "1.0.0",
+  "description": "A control-plane plugin that empowers AntiGravity agents to manage, configure, and troubleshoot the AntiGravity environment itself.",
+  "author": "Antigravity Dev Team",
+  "permissions": [
+    "read_file",
+    "write_file",
+    "command"
+  ]
+}
