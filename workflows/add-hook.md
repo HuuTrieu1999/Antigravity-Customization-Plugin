@@ -1,5 +1,5 @@
 ---
-description: Step-by-step wizard to register a new tool lifecycle hook in hooks.json.
+description: "Step-by-step wizard to register a new tool lifecycle hook in hooks.json."
 ---
 
 # /add-hook

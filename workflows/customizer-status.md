@@ -1,5 +1,5 @@
 ---
-description: Displays a unified dashboard of all active AntiGravity customization points (Skills, Plugins, MCP, Hooks, Sidecars).
+description: "Displays a unified dashboard of all active AntiGravity customization points (Skills, Plugins, MCP, Hooks, Sidecars)."
 ---
 
 # /customizer-status

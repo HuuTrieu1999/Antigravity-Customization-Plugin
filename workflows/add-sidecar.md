@@ -1,5 +1,5 @@
 ---
-description: Scaffolds a new background sidecar configuration and execution script.
+description: "Scaffolds a new background sidecar configuration and execution script."
 ---
 
 # /add-sidecar
